@@ -2,7 +2,7 @@
 
 Imported Libraries:
 
-numpy \n
+numpy
 matplotlib
 math
 pandas
