@@ -1,16 +1,25 @@
 # CS5783
 
-Imported Libraries:
+Assignment 3
+
+Run File Assignment3.ipynb
+
+Data collected was stored in "Assignment 3 data.xlsx"
+
+
+Imports needed:
+
+keras.datasets
+
+datetime
+
+packaging
+
+tensorflow
+
+tensorboard
+
+matplotlib.pyplot
 
 numpy
-matplotlib
-math
-pandas
 
-Files:
-
-Assignment1_Q2_Data.csv
-x_test.npy
-x_train.npy
-y_test.npy
-y_train.npy
