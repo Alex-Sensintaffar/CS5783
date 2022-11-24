@@ -1,10 +1,10 @@
 # CS5783
 
-Assignment 3
+Assignment 4
 
-Run File Assignment3.ipynb
+Run File Assignment4.ipynb
 
-Data collected was stored in "Assignment 3 data.xlsx"
+Data can be found in files
 
 
 Imports needed:
